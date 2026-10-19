@@ -125,8 +125,6 @@ a.service:focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; }
 
 a.service .service-link::after { content: " →"; }
 
-.is-soon .service-icon { opacity: 0.55; }
-.is-soon .service-link { color: var(--sub); font-weight: 400; }
 
 /* ── 連絡先 ── */
 .contact { margin-bottom: 56px; }
